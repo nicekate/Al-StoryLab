@@ -39,3 +39,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# audio files
+*.wav
+*.mp3
+*.ogg
+*.m4a
+
+# history files
+/public/output/history.json
+/public/sound-effects/history.json
